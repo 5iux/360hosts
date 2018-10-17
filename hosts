@@ -1,6 +1,6 @@
 #屏蔽360
 #dube
-#2018-09-05
+#2018-10-17
 #https://github.com/5iux/360hosts
 
 127.0.0.1 360.cn
@@ -138,4 +138,4 @@
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
 127.0.0.1 res.qhupdate.com
-  
+127.0.0.1 site.browser.360.cn
